@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "revelio-project",
+  "private_key_id": "949496be89ecfa528fe9f15e0ddc33502c3563c4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCU32IPEzouTwn9\nv4l6ZNxztfygHr9TbT6SBVB1tplOBoMNlmLxgQwE2w8aDH5yzjQ/tqkmwUBLJtbZ\nWNjOP8kN7QK23kTSnN49R7xThJp/nsuBCD2x2GMGLrkp/8ck+0xX1bCM9XanAGOQ\nn/6KzJQHibSLkfPgQopaK/MnBirH0M3D5MYmC/kUtjMMw8ocd9tLLDOQRp+jnQ66\nxx1MArHbH+28TPgjOcVj6iS8T79TpiUBmh2bjbvAthQDE5FeetmCsRrcLqveFRxa\nNlSa1n5EyB5l9JqZdkRLHGkkPaUBFm4BWB4uMTqlobvz191d3mwedSXaxgrjpiCr\nCPQSD3+rAgMBAAECggEAJ35jWzB0nNhnBCQN6qRbP28mB6xggVdX5BD42WGJpgNg\nPPiKYxsi/x7GENkDqp09izGACkH2NnmlQZ+qVHzjb4hS0gSBKYZoBsXDFjz1Z6nO\nvvpas5V+H6PBh3zNbegkxqBv59UulvspbrKjKls/YgiMFwKvOe0tGuLR7KZcLwmz\n/64KrSi16yB6oDcuEu6XqHXDrLgM9sD9fB2zbU4dDr6gaA30TBJr5h8540pO+0Yz\n55ZrrEUMgkUg2cs1B7Kbnu/2i8SsltZlBLSdiN4VnyT+97W8wRD1rCo1E1Ow5YG6\nrdS0kv5CQeWjXmfsluB+uKnPgpO+IZK2vmdFEuaKUQKBgQDLx9gsjoqTeD6cHCN1\nO2lQDn2x76Rn2yptivFdRqBaCj+K0Pgwxuqqo7HvTrFsdjUZa7qWi274t2Dy0dMm\nchAUT77IR/hnbEgCuMIC3IbBhHjWq56kSWbjRmbXwx9M960xpWA6h9sW+gLFi8Nh\nl8OWerKFEirte4hs7KPntW+GTQKBgQC7BYf8Z6juWGAQQnA8sypdT4IQ3DaHE8do\n5MCGKx103pMvBScRmeBRXudP7LelVAttzQa8LcPAx2bP3sOhVPdeqhLml+8dBQCM\ns3uH4NTPX9Ni/Luc+22LwwKlpaobADa6YL+El8bDZj2dcMcixGkHCbv4VGlG2fuY\ndSAdrOEJ1wKBgDPkiz8leVJ+b2svmzPyUiop1oZmYTZ1UEOe+0Hmh1UGgRHnjxxU\nu1OC5f/ryTC2lWUI0vYdQcAiapTLK/sBVujlOc8kzLQBlgDjbbxuzf4frunzwC1T\n59h+iBfvv1vJQph+5ZdiGz+poOUPZ0zF6e+7BRTwAHCDYcVjKYYK5QCNAoGAVoVN\njwCpz3JFJuCFqh89FyQESSaHd2A4HZfOVYO2we2Ca/tXQrZMZ3ifTIN3xl2mV+rF\nFeOaLyJQtxQYrxduxXWq/tEFRwicY3tZR9hEu5daZO4FIa/T0xeprtaAZrNnnjvJ\n/l51DsrK8H5PMg9pg18GffEXLzcDRVnSPMhQ58sCgYEAhAxHeCcezfY4OjEroSJh\nrJ8jdZJPSSAkpW9dVbPlRioxh21l8egZHs8wJOcDuXs62tbqpJAAS+zc8Ufe+uHY\nA7YEYEsCuOhNnsZqgdQ5wk8JLeSFdJjpDqPDFEiqvlSojjLxGlUHE74W7S4MTFn0\nSTKr/p5BNq0xKTUSGZcNyx0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "revelio-service@revelio-project.iam.gserviceaccount.com",
+  "client_id": "106242649232651892097",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/revelio-service%40revelio-project.iam.gserviceaccount.com"
+}
